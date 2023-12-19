@@ -11,9 +11,9 @@ The goal is to contribute to more effective medical care and alleviate the burde
           * Utilized various charts such as heatmap, countplot, and pie chart to visualize key aspects, including COVID-19 status distribution, gender-wise COVID-19 positive cases, age distribution, and the 
           prevalence of symptoms like cough, breathing problems, sore throat, and fever.
 # Step 4: Feature Engineering
-           * Converted categorical data into numerical format through feature engineering, ensuring compatibility with machine learning models.
+         * Converted categorical data into numerical format through feature engineering, ensuring compatibility with machine learning models.
 # Step 5: Modeling
-           * Implemented different machine learning models, including Decision Tree, Random Forest, XGBoost, and AdaBoost, to predict whether an individual is COVID-19 positive or not.
+         * Implemented different machine learning models, including Decision Tree, Random Forest, XGBoost, and AdaBoost, to predict whether an individual is COVID-19 positive or not.
 # Dependencies
   *  Python 3.x
   *  Google Colab
